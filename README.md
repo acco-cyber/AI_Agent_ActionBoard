@@ -1,4 +1,4 @@
-# 🚀 Groq Colab MCP Agent - Enterprise Edition
+# 🚀 Groq Colab MCP Agent 
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Groq API](https://img.shields.io/badge/Groq%20API-v1.0-brightgreen.svg)](https://console.groq.com)
