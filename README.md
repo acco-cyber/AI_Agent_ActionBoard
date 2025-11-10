@@ -1,4 +1,4 @@
-# 🚀 Groq Colab MCP Agent 
+#  Groq Colab MCP Agent 
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Groq API](https://img.shields.io/badge/Groq%20API-v1.0-brightgreen.svg)](https://console.groq.com)
@@ -759,4 +759,4 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ---
 
-**Made with ❤️ by AI Systems Team** | **⭐ Star us on GitHub!**
+
