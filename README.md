@@ -757,6 +757,5 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 - Model Context Protocol for the framework
 - Contributors and community
 
----
-
+------
 
